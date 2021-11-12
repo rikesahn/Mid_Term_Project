@@ -40,6 +40,7 @@ DAY 2- Tuesday
  	- Find model that best fits the data
 
 DAY 3- Wednesday
+
 5. Presentation 
 	- Make a draft presentation with preliminary plots (by Wednesday)
 	- Developing visualizations with Tableau 
@@ -50,4 +51,5 @@ DAY 4 -Thursday
 	-Buffer  
 
 DAY 5 - Friday
+
 6. Presenting
