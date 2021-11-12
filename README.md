@@ -11,25 +11,25 @@ By: Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Ajamia
 Steps: 
 
 1. Exploring the data: 
-	- Get rough idea of variables / features and which ones to focus on
-	- Describe method
-	- Explore numerical and categorical columns
-	- Clean data 
-2. Checking null values
-	- Visualize data to understand details 
-	- Distribution plot
-	- Correlation heatmap 
-	- Boxplots for outliers
+	- Get rough idea of variables / features and which ones to focus on **(Weekend)**
+	- Describe method **(Weekend)**
+	- Explore numerical and categorical columns **(Weekend)**
+	- Clean data **(Monday)**
+	- Checking null values **(Monday)**
+	- Visualize data to understand details **(Monday)**
+	- Distribution plot **(Monday)**
+	- Correlation heatmap **(Monday)**
+	- Boxplots for outliers **(Monday)**
 
-3. Prepare the data for modelling 
+3. Prepare the data for modelling **(Monday)**
 	- Dropping columns with multicorrelation
 	- Transformation / processing
 	- Normalization
 	- Remove outliers
 	- Scaling numerical variables
 	- Encoding categorical variables
-DAY 2- Tuesday 
-4. Predictive Modelling
+
+4. Predictive Modelling **(Tuesday)**
 	- Linear regression
 	- Other models necessary / useful (log regression & others in sklearn)
 	- Interpret the results
@@ -39,18 +39,11 @@ DAY 2- Tuesday
 	- Compare the predictions (using the same measures of accuracy as a benchmark for each model)
  	- Find model that best fits the data
 
-DAY 3- Wednesday
-
 5. Presentation 
-	- Make a draft presentation with preliminary plots (by Wednesday)
-	- Developing visualizations with Tableau 
-     	- Prepare presentation
-	
-DAY 4 -Thursday
+	- Make a draft presentation with preliminary plots **(Wednesday)**
+	- Developing visualizations with Tableau **(Wednesday)**
+     	- Prepare presentation **(Wednesday)**
+	- Practice the presentation (2, 3 times) **(Thursday)**
+	- Buffer **(Thursday)**
 
-	- Practice the presentation (2, 3 times)
-	- Buffer  
-
-DAY 5 - Friday
-
-6. Presenting
+6. Presenting **(Friday)**
