@@ -42,7 +42,7 @@ Steps:
 5. Presentation 
 	- Make a draft presentation with preliminary plots **(Wednesday)**
 	- Developing visualizations with Tableau **(Wednesday)**
-     	- Prepare presentation **(Wednesday)**
+	- Prepare presentation **(Wednesday)**
 	- Practice the presentation (2, 3 times) **(Thursday)**
 	- Buffer **(Thursday)**
 
