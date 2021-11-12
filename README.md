@@ -47,6 +47,7 @@ DAY 3- Wednesday
      	- Prepare presentation
 	
 DAY 4 -Thursday
+
 	-Practice the presentation (2, 3 times)
 	-Buffer  
 
