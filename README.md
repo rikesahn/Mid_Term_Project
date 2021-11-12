@@ -6,22 +6,22 @@ By: Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Ajamia
 
 **Objective**: The task is to build a model that will predict the price of a house based on features provided in the dataset. The senior management also wants to explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - \$650K and above.
 
-Tools used: Python, numpy, matplotlib, Pandas, Seaborn, sklearn Tableau  
+**Tools used: Python, numpy, matplotlib, Pandas, Seaborn, sklearn Tableau **
 
 Steps: 
 
-Exploring the data: 
-	Get rough idea of variables / features and which ones to focus on
-		describe method
-		Explore numerical and categorical columns
-	Clean data 
-checking null values
-	Visualize data to understand details 
-distribution plot
-correlation heatmap 
-Boxplots for outliers
-DAY 1- Monday
-Prepare the data for modelling 
+1. Exploring the data: 
+	- Get rough idea of variables / features and which ones to focus on
+	- Describe method
+	- Explore numerical and categorical columns
+	- Clean data 
+2. Checking null values
+	- Visualize data to understand details 
+	- Distribution plot
+	- Correlation heatmap 
+	- Boxplots for outliers
+
+3. Prepare the data for modelling 
 	Dropping columns with multicorrelation
 	Transformation / processing
 	Normalization
