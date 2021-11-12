@@ -22,33 +22,32 @@ Steps:
 	- Boxplots for outliers
 
 3. Prepare the data for modelling 
-	Dropping columns with multicorrelation
-	Transformation / processing
-	Normalization
-	Remove outliers
-Scaling numerical variables
-	encoding categorical variables
+	- Dropping columns with multicorrelation
+	- Transformation / processing
+	- Normalization
+	- Remove outliers
+	- Scaling numerical variables
+	- Encoding categorical variables
 DAY 2- Tuesday 
-Predictive Modelling
-	linear regression
-	Other models necessary / useful (log regression & others in sklearn)
-Interpret the results
-	Metrics: R-square, P-values, plot regression and errors / residuals
-	Dig deeper with the models that perform best
-Improving the model 
-	Compare the predictions 
-(using the same measures of accuracy as a benchmark for each model)
- 	Find model that best fits the data
+4. Predictive Modelling
+	- Linear regression
+	- Other models necessary / useful (log regression & others in sklearn)
+	- Interpret the results
+	- Metrics: R-square, P-values, plot regression and errors / residuals
+	- Dig deeper with the models that perform best
+	- Improving the model 
+	- Compare the predictions (using the same measures of accuracy as a benchmark for each model)
+ 	- Find model that best fits the data
 
 DAY 3- Wednesday
-Presentation 
-	Make a draft presentation with preliminary plots (by Wednesday)
-	Developing visualizations with Tableau 
-     	Prepare presentation
+5. Presentation 
+	- Make a draft presentation with preliminary plots (by Wednesday)
+	- Developing visualizations with Tableau 
+     	- Prepare presentation
 	
 DAY 4 -Thursday
-Practice the presentation (2, 3 times)
-Buffer  
+	-Practice the presentation (2, 3 times)
+	-Buffer  
 
 DAY 5 - Friday
-Presenting
+6. Presenting
