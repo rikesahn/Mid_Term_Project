@@ -48,8 +48,8 @@ DAY 3- Wednesday
 	
 DAY 4 -Thursday
 
-	-Practice the presentation (2, 3 times)
-	-Buffer  
+	- Practice the presentation (2, 3 times)
+	- Buffer  
 
 DAY 5 - Friday
 
