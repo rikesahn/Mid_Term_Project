@@ -6,7 +6,7 @@ By: Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Ajamia
 
 **Objective**: The task is to build a model that will predict the price of a house based on features provided in the dataset. The senior management also wants to explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - \$650K and above.
 
-**Tools used: Python, numpy, matplotlib, Pandas, Seaborn, sklearn Tableau **
+**Tools used: Python, numpy, matplotlib, Pandas, Seaborn, sklearn Tableau**
 
 **Steps**: The following steps describe the project planning: 
 
@@ -26,6 +26,7 @@ By: Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Ajamia
 	- Transformation / processing
 	- Normalization
 	- Remove outliers
+	- Test / Train Split
 	- Scaling numerical variables
 	- Encoding categorical variables
 
