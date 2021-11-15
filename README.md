@@ -26,6 +26,7 @@ By: Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Ajamia
 	- Transformation / processing
 	- Normalization
 	- Remove outliers
+	- Test / Train Split
 	- Scaling numerical variables
 	- Encoding categorical variables
 
