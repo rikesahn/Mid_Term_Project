@@ -2,7 +2,7 @@
 
 **Midterm project for house price predictions**
 
-By **The Supermodels**😁: Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Ajamia
+By **The Supermodels** 💃🏻 🕺🏻 💃🏼 Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Ajamia
 
 **Objective**: The task is to build a model that will predict the price of a house based on features provided in the dataset. The senior management also wants to explore the characteristics of the houses using some business intelligence tool. One of those parameters include understanding which factors are responsible for higher property value - \$650K and above.
 
@@ -31,6 +31,7 @@ By **The Supermodels**😁: Henrike Sahnwaldt, Enrique Hernani Ros & Rand Abu Aj
 	- Encoding categorical variables
 
 4. Predictive Modelling **(Tuesday)**
+	- Taking a walk!!!!!! 12:00 - 13:00 
 	- Linear regression: first version done
 	- Other models necessary / useful (log regression & others in sklearn): in research
 	- Interpret the results
